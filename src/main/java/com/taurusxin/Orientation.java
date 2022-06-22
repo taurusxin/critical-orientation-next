@@ -1,4 +1,4 @@
-package me.xingez;
+package com.taurusxin;
 
 import net.fabricmc.api.ClientModInitializer;
 import org.apache.logging.log4j.Level;
